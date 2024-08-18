@@ -33,7 +33,7 @@ Para fazer a conexão com o banco de dados, teremos que colocar uma string de co
     "ConexaoPadrao": "server=127.0.0.1;uid=User;pwd=Senha;database=BancoDeDados"
   },
   "AllowedHosts": "*"
-}}
+}
 ```
 
 ## Criamos AppDBContext responsável para conexão com o Banco De Dados
