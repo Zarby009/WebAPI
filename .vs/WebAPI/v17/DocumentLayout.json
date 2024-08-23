@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\SiteWindowMvc\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|d:\\sitewindowmvc\\webapi\\webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|d:\\sitewindowmvc\\webapi\\webapi\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\livromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|d:\\sitewindowmvc\\webapi\\webapi\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|d:\\sitewindowmvc\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\services\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +42,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:46:55.316Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AutorController.cs",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AutorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:29:07.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -58,58 +85,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T21:34:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20240818211756_CriandoBancoDeDados.cs",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs",
-              "RelativeToolTip": "WebAPI\\Migrations\\20240818211756_CriandoBancoDeDados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:17:56.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LivroModel.cs",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\LivroModel.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Models\\LivroModel.cs",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\LivroModel.cs",
-              "RelativeToolTip": "WebAPI\\Models\\LivroModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:08:52.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "AutorModel.cs",
               "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\AutorModel.cs",
               "RelativeDocumentMoniker": "WebAPI\\Models\\AutorModel.cs",
               "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\AutorModel.cs",
               "RelativeToolTip": "WebAPI\\Models\\AutorModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:04:09.605Z",
+              "WhenOpened": "2024-08-18T21:29:49.999Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ResponseModel.cs",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:26:35.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Services\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IAutorInterface.cs",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Services\\IAutorInterface.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IAutorInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:25:14.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Services\\AutorService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\AutorService.cs",
+              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Services\\AutorService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\AutorService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:25:03.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WebAPI",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\WebAPI.csproj",
-              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-18T19:52:29.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AppDBContext.cs",
               "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Data\\AppDBContext.cs",
               "RelativeDocumentMoniker": "WebAPI\\Data\\AppDBContext.cs",
@@ -117,46 +155,7 @@
               "RelativeToolTip": "WebAPI\\Data\\AppDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:47:53.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T19:47:50.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:46:55.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T19:52:33.283Z"
+              "WhenOpened": "2024-08-18T19:47:53.136Z"
             }
           ]
         }
