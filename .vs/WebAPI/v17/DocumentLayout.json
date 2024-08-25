@@ -3,6 +3,17 @@
   "WorkspaceRootPath": "D:\\SiteWindowMvc\\WebAPI\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|d:\\sitewindowmvc\\webapi\\webapi\\services\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> e7e92f8 (Fizemos o resto da API com outras funções)
       "AbsoluteMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|D:\\SiteWindowMvc\\WebAPI\\webapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8B86CB5-C739-4345-8C20-4587574186E8}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +53,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 5,
+>>>>>>> e7e92f8 (Fizemos o resto da API com outras funções)
           "Children": [
             {
               "$type": "Document",
@@ -68,8 +83,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-18T21:29:07.362Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -85,7 +99,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 0,
+>>>>>>> e7e92f8 (Fizemos o resto da API com outras funções)
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -123,7 +141,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 1,
+>>>>>>> e7e92f8 (Fizemos o resto da API com outras funções)
               "Title": "IAutorInterface.cs",
               "DocumentMoniker": "D:\\SiteWindowMvc\\WebAPI\\WebAPI\\Services\\IAutorInterface.cs",
               "RelativeDocumentMoniker": "WebAPI\\Services\\IAutorInterface.cs",
